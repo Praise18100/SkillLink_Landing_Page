@@ -1,5 +1,5 @@
 import { FiZap, FiScissors, FiCamera, FiTool, } from 'react-icons/fi';
-import './Categories.css';
+import './categories.css';
 import { LuPaintbrushVertical } from "react-icons/lu";
 import { CiPen } from "react-icons/ci";
 import { FaBroomBall } from "react-icons/fa6";

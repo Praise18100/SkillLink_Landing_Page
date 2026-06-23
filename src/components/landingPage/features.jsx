@@ -1,5 +1,5 @@
 import { FiUser, FiCheck } from 'react-icons/fi';
-import './Features.css';
+import './features.css';
 import whyChoose from '../../assets/whyChoose.png'; 
 
 const Features = () => {

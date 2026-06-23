@@ -1,5 +1,5 @@
 import { FiStar, FiMapPin, FiHeart } from "react-icons/fi";
-import "./Providers.css";
+import "./providers.css";
 import provider1 from "../../assets/provider1.png";
 import provider2 from "../../assets/provider2.png";
 import provider3 from "../../assets/provider3.png";

@@ -1,5 +1,5 @@
 import { FiCheckCircle, FiUsers, FiBriefcase, FiGrid, FiStar } from 'react-icons/fi';
-import './Hero.css';
+import './hero.css';
 import heroImg from '../../assets/hero.png'; 
 
 
